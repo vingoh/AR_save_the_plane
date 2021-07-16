@@ -1,0 +1,10 @@
+^D:\VISUAL STUDIO 2019\AR\PROJECT_GL\BUILD\CMAKEFILES\C481F93D92D89CD12EDEE32E700B64D7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Visual Studio 2019/AR/Project_GL" "-BD:/Visual Studio 2019/AR/Project_GL/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Visual Studio 2019/AR/Project_GL/build/Exercise06.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+D:/Visual Studio 2019/AR/Project_GL/build/CMakeFiles/Exercise06.dir
+D:/Visual Studio 2019/AR/Project_GL/build/CMakeFiles/ALL_BUILD.dir
+D:/Visual Studio 2019/AR/Project_GL/build/CMakeFiles/ZERO_CHECK.dir
